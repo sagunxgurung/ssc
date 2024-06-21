@@ -353,7 +353,7 @@ body {
   }
 
   .round {
-    width: 21%;
+    width: 35%;
   }
 
   .current {
@@ -382,7 +382,7 @@ body {
   }
 
   .hero p.year {
-    margin: 5px 0 10px;
+    margin: 5px 10px;
     font-size: 18px;
   }
 
